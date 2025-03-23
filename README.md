@@ -166,4 +166,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma **issue** ou
 
 ---
 
-Feito com ❤️ por [Giovanni Biazon](https://github.com/giovannibzn).
+Feito por [Giovanni Biazon](https://github.com/giovannibzn).
